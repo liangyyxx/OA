@@ -5,3 +5,4 @@ local update 01
 update fengshining
 local update 02
 git service update
+test _netrc
